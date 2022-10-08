@@ -14,12 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=manishbishwas&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
